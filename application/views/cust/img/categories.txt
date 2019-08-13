@@ -1,0 +1,11 @@
+1 Medicines.
+2 Grocery
+3 stationery
+4 mobiles and accesories.
+5 Electonics
+6 Footwears(isme men women and kids wear sb aa jayenge)
+7 Clothing.(men women kids sb )
+8 Refreshments.(ya fir tea coffee and snacks likde)
+9 daily needs(isme fruits vegeteables milk ayege)
+10 home decor.(furnitures curtains etc)
+dairy

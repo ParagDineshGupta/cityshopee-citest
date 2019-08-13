@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-color:white;padding: 0px;margin: 0px;}
+
+.container{background-color:lightblue;min-height: 100%;     }
+.scc1 > div{height:150px; width:150px; background-color:#CCFF33; float:left;}
+.hcontainer{ width:100%;  background-color:#0000ff;    float: right; }
+.h_left{    padding-left: 20px;  background-color:#0000ff; float:left;padding: 5px;}
+.h_left > *{margin: 0px;display: block;color: white;}
+.h_right{     float: right;padding-top: 10; }
+.h_right > *{display:inline;    margin: -8px;}
+/*nevigation*/
+.nevigation{ width:100%; background-color:#666699;display: flex;}
+
+.nav { width:100%; overflow:auto;margin: 0px;padding: 0px;}
+.nav li { display:inline;}
+ .nav li a { display:block; float:left; padding:0px 15px; min-width: 100px;   line-height:52px; font-size:20px; font-align:center; text-transform:uppercase; font-weight:bold; color:#fff; text-decoration:none; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; text-align:center; margin-left:0px; background:url(imageinner/nav-bg1.png) no-repeat left top;}
+.nav li a:hover { background:red url(imageinner/nav-bg2.png) no-repeat left top;}
+/*.nav li a.current { background:blue url(imageinner/nav-bg2.png) no-repeat left top;}*/
+/* ----------------------------------------Slider*---------------------------------------------*/
+slider{ height:500px; width: 100%; background-color:#FFFFFF; float:left;}
+.citysearch{    width: 100%;
+    background-color: #5b413d00;
+	display:flex;
+	overflow: auto;
+	}
+
+/* ----------------------------------------Shop.php*---------------------------------------------*/
+/* ----------------------------------------Shop.php*---------------------------------------------*/
+.shop_container{ height:500px; width:900px; background-color:#FFFFFF; float:left;}
+.scc1 > div{ background-color:#CCFF33; width: 100%,
+display: flex;}

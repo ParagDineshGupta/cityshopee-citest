@@ -1,0 +1,24 @@
+<tr> <td>Product:</td>
+    <td><select name="Product" id="Product">
+      <option>Select your Product</option>
+      <option value="electonic">Electronic Shop</option>
+      <option value="cloth">Cloth Shop</option>
+      <option value="hardware">Hardware Shop</option>
+      <option value="plumber">Plumber</option>
+      <option value="dairy">Dairy</option>
+      <option value="backarry">Backarry</option>
+      <option value="restro">Restro</option>
+      <option value="kirana">Kirana Shop</option>
+      <option value="library">Library</option>
+      <option value="stationary">Stationary</option>
+      <option value="vegitable">Vegitable Shop</option>
+      <option value="utencile">Utencile Shop</option>
+      <option value="gas">Gas Shop</option>
+      <option value="dhaba">Dhaba</option>
+      <option value="tea">Tea Shop</option>
+      <option value="chinese">Chinese point</option>
+      <option value="soda">Soda Shop</option>
+      <option value="fruit">Fruit Shop</option>
+      </select></td>
+  <tr>
+   
